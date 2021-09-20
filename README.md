@@ -1,7 +1,7 @@
 # To Run
 
-Run `npm start` in the project root and the app will be available on port 3000.
-You can also check out the deployed site [here](https://react-redux-flashcards-quiz-app.netlify.app)
+- Run `npm start` in the project root and the app will be available on port 3000.
+- You can also check out the deployed site [here](https://react-redux-flashcards-quiz-app.netlify.app)
 # State
 
 The app's state is totally normalized, with slices for topics, quizzes, and cards.
