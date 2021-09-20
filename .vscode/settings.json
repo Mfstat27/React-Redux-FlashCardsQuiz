@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "errorLens.errorBackground": "#ff00",
+        "errorLens.errorBackgroundLight": "#ff00",
+        "errorLens.warningBackgroundLight": "#ff00",
+        "errorLens.warningBackground": "#ff00",
+        "errorLens.infoBackgroundLight": "ff00",
+        "errorLens.infoBackground": "#ff00",
+        "errorLens.hintBackground": "#ff00",
+        "errorLens.hintBackgroundLight": "ff00",
+    }
+}
